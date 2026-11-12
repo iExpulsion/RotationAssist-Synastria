@@ -45,3 +45,7 @@ RA:AddClassNames({
 RA:AddRuneCosts({
 	["Mark of Frost"] = { frost = 1 },
 })
+
+-- The burst of target changes the hold makes just after a perk-changed spell (Curse of Agony with Bane, Hunger For
+-- Blood with Improved Hunger for Blood) is cast disconnects the player.
+if RA.SetGcdHoldDefault then RA:SetGcdHoldDefault(false) end

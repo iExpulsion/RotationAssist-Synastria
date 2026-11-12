@@ -18,6 +18,9 @@ differently.
 - **Class Pair Names.** A rotation for two classes shows Synastria's name for the pair, like Lich or Spellblade.
 - **Spec Names.** The spec dropdown and the minimap tooltip show your specs' names.
 - **Mark of Frost.** Smart Picks waits for its Frost rune, like the stock Death Knight spells.
+- **No Disconnects From Perk Spells.** Hold Presses During the Global Cooldown starts off. With it on, casting a
+  spell a perk changes (like Curse of Agony with Bane) from a Smart Picks rotation disconnects you. If you turn it
+  back on in Settings, leave such spells out of your rotations.
 
 ## License
 
