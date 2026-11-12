@@ -2,7 +2,7 @@
 ## Title: Rotation Assist: Synastria
 ## Notes: Synastria's classes, spec names and spells for Rotation Assist.
 ## Author: Expulsion
-## Version: 1.0.0
+## Version: 1.1.0
 ## Dependencies: RotationAssist
 
 Synastria.lua

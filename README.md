@@ -6,7 +6,8 @@ differently.
 
 ## Installing
 
-1. Install [Rotation Assist](https://github.com/iExpulsion/RotationAssist/releases/latest) 1.0.0 or later first.
+1. Install [Rotation Assist](https://github.com/iExpulsion/RotationAssist/releases/latest) 1.4.0 or later first
+   (1.0.0 works, without the global cooldown change below).
 2. Download `RotationAssist_Synastria-<version>.zip` from the [latest release](../../releases/latest) and extract
    it into `World of Warcraft\Interface\AddOns`, next to the `RotationAssist` folder.
 3. Restart the game.
