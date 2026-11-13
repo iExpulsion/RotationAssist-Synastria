@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: Rotation Assist: Synastria
+## Title: |cffff9a2eRotation Assist|r|cff8a8a8a: Synastria|r
 ## Notes: Synastria's classes, spec names and spells for Rotation Assist.
 ## Author: Expulsion
 ## Version: 1.1.0
